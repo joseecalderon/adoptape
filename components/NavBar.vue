@@ -1,4 +1,5 @@
 <template>
+  <div class="hero-head">
   <nav class="navbar is-fresh is-transparent no-shadow" role="navigation" aria-label="main navigation">
     <div class="container">
       <div class="navbar-brand">
@@ -31,6 +32,7 @@
       </div>
     </div>
   </nav>
+  </div>
 </template>
 
 <script>

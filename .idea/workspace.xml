@@ -2,23 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072ee628-773f-4299-ae91-b1adc816c68d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/puppy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_responsive.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Banner.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/NavBar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_responsive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_responsive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Banner.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Banner.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/NavBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/NavBar.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +57,11 @@
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ezavaleta\WebstormProjects\adoptape\assets\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ezavaleta\WebstormProjects\adoptape\assets\scss" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ezavaleta\WebstormProjects\adoptape\assets\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -109,7 +101,8 @@
       <workItem from="1567716999272" duration="1490000" />
       <workItem from="1567718931960" duration="2967000" />
       <workItem from="1567721934112" duration="72000" />
-      <workItem from="1567722027519" duration="8994000" />
+      <workItem from="1567722027519" duration="9091000" />
+      <workItem from="1567778967863" duration="4956000" />
     </task>
     <servers />
   </component>
