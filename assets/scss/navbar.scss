@@ -1,0 +1,42 @@
+@import "variables";
+.navbar.is-fresh {
+  position: relative;
+  min-height: 3.8rem;
+  transition: all .3s;
+  z-index: 29;
+  .container{
+    min-height: 4rem;
+  }
+  &.no-shadow {
+    box-shadow: none !important;
+  }
+  .navbar-burger{
+    width: 4rem;
+    height: 4rem;
+  }
+  .navbar-brand{
+    min-height: 4rem;
+    &:hover{
+      .navbar-item{
+        background: transparent !important;
+      }
+    }
+  }
+  .navbar-end{
+    align-items: center;
+  }
+  .navbar-item{
+    color: $nest-primary;
+    &.is-secondary{
+      color: $text-color;
+      &:hover{
+        color: $nest-btn !important;
+      }
+    }
+    .signup{
+      display: block;
+      line-height: 0;
+      font-size: .9rem !important;
+    }
+  }
+}

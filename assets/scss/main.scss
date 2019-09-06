@@ -1,0 +1,14 @@
+@import '../../node_modules/bulma';
+
+@import "navbar";
+@import "buttons";
+@import "hero";
+@import "responsive";
+
+
+$logo_text : 1.5em;
+
+.logo{
+  font-size: $logo_text ;
+  font-weight: bold;
+}
